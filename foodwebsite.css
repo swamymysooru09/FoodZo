@@ -1,0 +1,258 @@
+.navbar_container{
+  height: 55px;
+  width: 60px;
+}
+.navbar-item-alignment{
+  text-align: right;
+}
+#nav1{
+  color: #323f4b;
+  font-family: "roboto";
+}
+#nav2{
+  color: #323f4b;
+  font-family: "roboto";
+}
+#nav3{
+  color: #323f4b;
+  font-family: "roboto";
+}
+#nav4{
+  color: #323f4b;
+  font-family: "roboto";
+}
+.home-background-container{
+  background-image: url("bc.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+.banner-heading
+{
+
+  font-family: "roboto";
+  font-size: 45px;
+  color: rgb(13, 12, 12);
+  font-weight: 300;
+  
+
+}
+.Banner-button1{
+  width: 130px;
+  height: 45px;
+  color: white;
+  background-color: green;
+  border-radius: 20px;
+  margin-right: 10px;
+  border-width: 0;
+}
+.Banner-button2{
+  width: 130px;
+  height: 45px;
+  color: green;
+  background-color: transparent;
+  border-radius: 20px;
+  margin-right: 10px;
+  border-color: green;
+  border-width: 1px;
+  border-style: solid;
+}
+.wcu-section
+{
+  background-color: #f9fbfe;
+}
+.wcu-section-heading{
+  font-family: "roboto";
+  color: #183b56;
+  font-weight: 700;
+  font-size: 28px;
+}
+.wcu-section-description{
+  font-family: "roboto";
+  font-size: 16px;
+  color: #5a7184;
+}
+.wcu-section-card{
+  background-color: white;
+  text-align: center;
+  border: 1px solid ;
+  border-radius: 16px;
+
+
+}
+.wcu-section-logo1
+{
+height: 60px;
+width: 60px;
+
+
+
+}
+.wcu-section-logo1-heading{
+  margin-top: 0;
+  font-family: "roboto";
+  font-weight: 500;
+  font-size: 22px;
+  color: #323f4b;
+}
+.wcu-section-logo1-description{
+ font-family: "roboto";
+ font-size: 16px;
+ color: #7b8794;
+}
+.exploremenu-section-card{
+  background-color: white;
+}
+.Menu-section-heading{
+  font-family: "roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+.menu-item-image{
+  border-radius: 16px;
+  width: 320px;
+  height: 220px;
+}
+.menu-card-title{
+  color: #323f4b;
+  font-family: "roboto";
+  font-size: 18px;
+  margin-top: 24px;
+  font-weight: 500;
+
+}
+.menu-section-viewall
+{
+color: #d0b200;
+font-family: "roboto";
+font-weight: 500;
+font-size: 14px;
+}
+.menu-section-card{
+border-radius: 16px;
+}
+.delivery-and-payment-section{
+background-color:#f9fbfe;
+}
+.deliverypayment-section-card{
+  background-color: white;
+}
+.healthyfood-section-img
+{
+  width: 247px;
+}
+.healthyfood-heading{
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.healthyfood-description{
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.healthyfood-button{
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.deliverypayment-secton-img{
+  width: 240px;
+}
+.deliverypayment-section-heading
+{
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.deliverypayment-section-describe{
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.deliverypayment-section-bbutton{
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10PX;
+}
+.payment-card-img{
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+.gift-card-container{
+  background-image: radial-gradient(#fff8db, #fae38c);
+}
+.thank-section-heading{
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.thank-section-description{
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.thanking-customers-section-img{
+  width: 270px;
+  margin-bottom: 20px;
+}
+.thanking-customers-section-button{
+  color: white;
+  background-image: linear-gradient(#d0b200, #a58d00);
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.followus-section{
+  background-color: white;
+}
+.followus-section-heading
+{
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.icon{
+  color: #d0b200;
+  font-size: 35px;
+}
+.detailsview-section{
+  background-color: whitesmoke;
+}
+.detailsview-section-image{
+  height: 70px;
+  width: 70px;
+}
+.detailsview-section-description{
+  color: rgb(20, 69, 20);
+  font-family: "roboto";
+  font-weight: 300;
+  font-size: 16px;
+}
